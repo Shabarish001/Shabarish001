@@ -2,7 +2,7 @@
 #### I am GitHub Readme Generator's creator
 I am Shabarish Dynamic professional transitioning to the IT sector with a strong foundation in programming knowledge. I enjoy learning languages and frameworks like JavaScript and Reactjs. Now Eager to leverage transferable skills in problem-solving, collaboration, and adaptability to excel in IT roles.
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS/ Bubble.io
 
 - 🔭 I’m currently working on Nutritional Website 
 - 🌱 I’m currently learning Python  
