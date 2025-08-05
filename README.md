@@ -1,11 +1,16 @@
 ### Hi there 👋,  Shabarish
 #### I am GitHub Readme Generator's creator
-I am Shabarish Dynamic professional transitioning to the IT sector with a strong foundation in programming knowledge. I enjoy learning languages and frameworks like JavaScript and Reactjs. Now Eager to leverage transferable skills in problem-solving, collaboration, and adaptability to excel in IT roles.
+I'm a Frontend Developer with a background in Agricultural Sciences and a passion for building responsive, accessible web applications. While completing my Master’s at the University of Hohenheim, I was introduced to Python and R, which sparked my interest in technology and led to a smooth transition into web development.
 
-Skills: REACT / JS / HTML / CSS/ Bubble.io
+Through self-learning and real-world projects, I built a strong foundation in React, TypeScript, Tailwind CSS, and API integration. At BeChange, I developed sustainable, user-friendly interfaces, while my current role at HarvestAi GmbH involves building scalable applications, writing unit tests, collaborating in agile teams, and deploying with AWS.
 
-- 🔭 I’m currently working on Nutritional Website 
-- 🌱 I’m currently learning Python  
+I’m also exploring mobile development with Kotlin and am particularly excited about integrating AI technologies into frontend workflows. I’m currently learning about RAG systems, LangChain, and Hugging Face to build more intelligent, adaptive user experiences.
+
+I thrive in collaborative environments where design, performance, and innovation intersect.
+
+Skills: REACT / JS / HTML / CSS/ LangChain/HuggingFace
+
+
 - 📫 How to reach me: shabarish.ayyapusetty@gmail.com 
 
 
